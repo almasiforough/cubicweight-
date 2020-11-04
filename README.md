@@ -1,6 +1,6 @@
 # Project: average cubic weight 
 
- Language: Javascript (React Library)
+ ## Language: Javascript (React Library)
 
 # Getting Started with Create React App
 
@@ -11,7 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm install`
-First Step for installing node_modules
+
+First  install node_modules
 
 ### `npm start`
 
